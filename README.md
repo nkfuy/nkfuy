@@ -1,4 +1,4 @@
-#Hallo, Hello, Hola, Konnichiwa
+# Hallo, Hello, Hola, Konnichiwa
 
 - 👋 German engineer
 - 👀 I’m interested in Python beginner challanges and IoT
